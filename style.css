@@ -1,0 +1,66 @@
+* {
+    font-family: "Sans Serif Collection", sans-serif;
+}
+
+h1 {
+    font-family: Serif, serif;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table0 {
+    width: 100%;
+}
+
+.biru {
+    color: blue;
+}
+
+.kiri {
+    text-align: left;
+}
+
+.kanan {
+    text-align: right;
+}
+
+.atas {
+    vertical-align: top;
+}
+
+.table th, .table td {
+    padding: 5px;
+    border: 1px solid;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 0 15px;
+    border-radius: 20px;
+    background: grey;
+    color: white;
+    margin: 2px;
+}
+
+.btn:hover {
+    background: darkgrey;
+    color: black;
+}
+
+.input_teks {
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 0 15px;
+    width: 300px;
+}
+
+.textarea {
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 0 15px;
+    width: 300px;
+    height: 80px;
+}
